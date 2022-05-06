@@ -27,8 +27,6 @@ public class Ejercicio6Mayo_2 {
             fact.numFactura,fact.nombreCliente,fact.apellidoCliente,fact.monto);
         System.out.println("Factura #"+fact.numFactura+",El nombre del cliente es "+
             fact.nombreCliente+" "+fact.apellidoCliente+", el monto es "+fact.monto);
-
-
     }
     
 }
